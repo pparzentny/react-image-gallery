@@ -65,7 +65,8 @@
     "watchify": "^3.8.0"
   },
   "peerDependencies": {
-    "react": "^16.0.0"
+    "react": "^16.0.0",
+    "react-swipeable": "https://github.com/pparzentny/react-swipeable.git"
   },
   "dependencies": {
     "clsx": "^1.0.4",
@@ -73,7 +74,6 @@
     "lodash.isequal": "^4.5.0",
     "lodash.throttle": "^4.1.1",
     "prop-types": "^15.5.8",
-    "react-swipeable": "https://github.com/pparzentny/react-swipeable.git",
     "resize-observer-polyfill": "^1.5.0"
   }
 }
